@@ -1,2 +1,2 @@
 # project-euler
-Solutions of some of project quler questions
+Solutions of some of project euler questions
